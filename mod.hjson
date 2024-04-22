@@ -1,0 +1,5 @@
+name: valve-mod
+  displayName: Valve
+  description: A mod that adds a planet which originates from a fragment of Erekir.
+author: 0rang3
+  minGameVersion: 146
